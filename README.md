@@ -1,5 +1,5 @@
 # Log
-___
+
 Logging module with the minimum necessary functionality.
 
 #### Installation
