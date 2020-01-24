@@ -26,4 +26,4 @@ The ***Log*** module provides 6 functions, each function displays all its argume
 - ***log.level*** - Default and minimum log level, it can also be as numerical values according to the simbolic level(default is set to `trace`)
 
 ### Copyright
-See [Copyright.txt](https://github.com/mzujev/log/Copyright.txt) file for details
+See [Copyright.txt](https://github.com/mzujev/log/blob/master/Copyright.txt) file for details
