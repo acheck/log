@@ -3,7 +3,7 @@
 Logging module with the minimum necessary functionality.
 
 #### Installation
-The [log](https://github.com/mzujev/log/log.lua) file should be dropped in to an existing project and required by it.
+The [log.lua](https://github.com/mzujev/log/blob/master/log.lua) file should be dropped in to an existing project and required by it.
 ```lua
     log = require "log"
 ``` 
